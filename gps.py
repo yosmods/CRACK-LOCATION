@@ -14,7 +14,7 @@ def logo():
 	os.system('clear')
 	print '''%s
   __________________  _________
- /  _____/\______   \/   _____/  %sCoded by D4RKSH4D0WS%s
+ /  _____/\______   \/   _____/  %sCoded by YOS-999
 /   \  ___ |     ___/\_____  \   %sThx to https://seccodeid.com%s
 \    \_\  \|    |    /        \  %sFB https://bit.ly/2GjT1AZ%s
  \______  /|____|   /_______  /  TRACKER
