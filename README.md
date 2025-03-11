@@ -13,7 +13,7 @@ requests
 ```
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/AnonRoz-Team/gps_tracker
+$ git clone https://github.com/yosmods/gps_tracker
 $ cd gps_tracker
 $ python2 gps.py
 ```
